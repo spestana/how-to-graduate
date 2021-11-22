@@ -5,7 +5,7 @@ Grad school has too many [unwritten rules](https://www.insidehighered.com/advice
 
 So as I'm working through grad school, I'm trying to keep track of all these steps to shed light on the confusing processes. 
 
-Shout out to my fellow grad students who shared info with me or helped me with this. Please fork this repo or [contact me](mailto:spestana@uw.edu) to add/edit more information.
+Shout out to my fellow grad students who shared info with me or helped me with this. Please [fork this repo](https://github.com/spestana/how-to-graduate/) or [contact me](mailto:spestana@uw.edu) to add/edit more information or to help correct typos.
 
 ---
 
