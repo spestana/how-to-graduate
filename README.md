@@ -17,7 +17,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
 
 ### Submitting your "Electronic Thesis/Dissertation"
 - [Thesis formatting guidelines](https://www.grad.washington.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)
-  - Alternatively, [use my formatted thesis word document as a template](files/my_thesis.docx)
+  - Alternatively, [use my formatted thesis word document as a template](docs/my_thesis.docx)
 - [This "ProQuest ETD Administrator" website](https://www.etdadmin.com/main/home?siteId=412) is where you upload your thesis document (it requires that you make an account, different than your UWNetID ?)
 - What copywrite option do I choose?
   - Pick one that you don't have to pay for. I chose the "Creative Commons License, Attribution (CC BY)"
@@ -59,7 +59,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
   - Send a calendar invitation (Google Calendar) to your committee members once a meeting location has been reserved.
 - **Writing your Doctoral Dissertation Proposal**
   - You will need to **send a written Doctoral Dissertation Proposal to your committee ~2 weeks before your general exam date.**
-  - **Talk to your advisor about what they expect should be in this document** (see [mine here](my_dissertation_proposal.pdf) for ideas on formatting and content, I tried to keep it short.)
+  - **Talk to your advisor about what they expect should be in this document** (see [mine here](docs/my_dissertation_proposal.pdf) for ideas on formatting and content, I tried to keep it short.)
     - Include a **timeline** of milestones (papers published, conference presentations, examinations) between the general exam and your expected graduation date
 - **Creating a presentation**
   - The first half of your general exam will be your presentation of your plan for your dissertation. This is open to the public so invite all your friends, family, fellow students. 
