@@ -1,7 +1,7 @@
 # How to Graduate
 UW CEE grad school
 
-There are too many hidden requirements, too much mysterious institutional knowledge, too much gatekeeping.
+There are too many hidden requirements, is too much mysterious institutional knowledge, and is too much gatekeeping.
 
 So as I'm working through grad school, I'm trying to keep track of all these steps to shed light on the confusing processes. 
 
