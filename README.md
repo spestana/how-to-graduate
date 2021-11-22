@@ -1,5 +1,4 @@
-# How to Graduate
-UW CEE grad school
+# How to Graduate: UW CEE grad school
 
 Grad school has too many [unwritten rules](https://www.insidehighered.com/advice/2021/10/18/how-navigate-unwritten-rules-graduate-school-opinion), has too much mysterious institutional knowledge, and has too many steps that are gatekeeping.
 
