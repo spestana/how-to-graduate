@@ -27,7 +27,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
 - What copywrite option do I choose?
   - Pick one that you don't have to pay for. I chose the "Creative Commons License, Attribution (CC BY)"
 
-  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
+[Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Qualifying Exam
 (PhD Milestones: [Qualifying Exam](https://www.ce.washington.edu/current/phd/milestones/qualifying)
@@ -77,7 +77,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
   - While they are "examining" you and your plan, their questions should be constructive, asking about details or potential problems in your plan that you may not yet have thought of (or maybe you have thought of them!)
   - Take notes during this meeting, you will get a lot of good information in a meeting with your whole committee that would be hard to get at another time. **Come prepared with questions for your committee members** or specific requests for assistance if there are areas of your work they can help with.
 
-  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
+[Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Final Exam
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
