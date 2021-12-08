@@ -50,7 +50,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
   - During the exam, introduce yourself and give a brief overview of your research interests that you’d provided the committee with. You’ll likely then be asked to explain your written exam problems, asked followup questions about those problems, and then more general questions about your planned research topic. At the end of the exam the committee will discuss in private and pretend to deliberate and decide if you’ve passed (**don’t worry, you did pass, they wouldn’t hold an exam if they didn’t think you would pass**). They’ll invite you  back in and give some feedback, suggestions about areas to study/read about more.
   - **Congrats, you did it!**
 - **After passing the exam**, your advisor will then submit a form to the CEE advising office notifying them that you’ve passed. 
-  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
+
 
 
 ## How to: General Exam
@@ -75,6 +75,7 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
   - While they are "examining" you and your plan, their questions should be constructive, asking about details or potential problems in your plan that you may not yet have thought of (or maybe you have thought of them!)
   - Take notes during this meeting, you will get a lot of good information in a meeting with your whole committee that would be hard to get at another time. **Come prepared with questions for your committee members** or specific requests for assistance if there are areas of your work they can help with.
 
+  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Final Exam
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
