@@ -27,6 +27,8 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
 - What copywrite option do I choose?
   - Pick one that you don't have to pay for. I chose the "Creative Commons License, Attribution (CC BY)"
 
+  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
+
 ## How to: Qualifying Exam
 (PhD Milestones: [Qualifying Exam](https://www.ce.washington.edu/current/phd/milestones/qualifying)
 
