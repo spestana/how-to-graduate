@@ -64,6 +64,9 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
 - **Reserve a meeting room** once you, your committee (including your GSR) have agreed on a date/time. Make sure to reserve it for a 2-hour block, plus any time beforehand you may need for setting up your presentation/projector, etc. See the links above for reserving a room for the Master's Thesis Defense. [I used room ECE 303, which can be reserved here (NOTE: It does not have a projector, you will need to bring your own projector!)](https://vannevar.ece.uw.edu/operations/calendars/ece_303.html) 
   - If you are presenting/meeting virtually or hybrid, create a Zoom meeting.
   - Send a calendar invitation (Google Calendar) to your committee members once a meeting location has been reserved.
+- **Submit a "General Exam request form" through MyGrad**: No later than 3 weeks before your planned exam, log in to [MyGrad](https://webapps.grad.uw.edu/mgp-student/), then in the top menu bar click on *Request Degree* then from the drop down menu *Doctoral (General Exam)*. Follow the steps as instructed. 
+  - One this is processed, the department should either email an electronic copy, or you can pick up a paper copy, of a *degree warrant*. This paper will be signed by the members of your committee when you pass the general exam, and you'll turn it back in to the CEE office afterwards.
+  - [See more info about MyGrad here](https://www.grad.washington.edu/for-students-and-post-docs/mygrad-program/)
 - **Writing your Doctoral Dissertation Proposal**
   - You will need to **send a written Doctoral Dissertation Proposal to your committee ~2 weeks before your general exam date.**
   - **Talk to your advisor about what they expect should be in this document** (see [mine here](docs/my_dissertation_proposal.pdf) for ideas on formatting and content, I tried to keep it short.)
@@ -76,8 +79,10 @@ Don't forget your [Master's Supervisory Committee Approval Form](https://www.gra
   - The second half of your general exam is a meeting between you and your committee, where they will ask questions about your dissertation plan.
   - While they are "examining" you and your plan, their questions should be constructive, asking about details or potential problems in your plan that you may not yet have thought of (or maybe you have thought of them!)
   - Take notes during this meeting, you will get a lot of good information in a meeting with your whole committee that would be hard to get at another time. **Come prepared with questions for your committee members** or specific requests for assistance if there are areas of your work they can help with.
-
-[Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
+- **After the "exam"**
+  - **Make sure your committee members sign the *degree warrant* paper after you pass!**
+  - Return your *degree warrant* paper to the CEE main office (or email).
+  - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Final Exam
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
