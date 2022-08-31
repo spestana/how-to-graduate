@@ -16,7 +16,9 @@ Decide (with your advisor) who will be your second committee member (your commit
 
 ### Planning the thesis defense
 
-Schedule your thesis defense date
+Schedule your thesis defense date 2+ months in advance
+
+Send a clean draft of your thesis to your committee members 2 weeks prior to your defense. They will discuss comments with you during the second half of the defense.
 
 Don't forget your [Master's Supervisory Committee Approval Form](https://www.grad.washington.edu/wp-content/uploads/thesis-approval-form.pdf)!
 
