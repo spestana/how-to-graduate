@@ -19,8 +19,21 @@ Decide (with your advisor) who will be your second committee member (your commit
 Schedule your thesis defense date 2+ months in advance
 
 Send a clean draft of your thesis to your committee members 2 weeks prior to your defense. They will discuss comments with you during the second half of the defense.
+- Reach out to your committee to confirm with them what format they prefer: ideally you send them something like a google doc or sharepoint doc so that they can see each other's comments (helps avoid conflicting edits)
 
 Don't forget your [Master's Supervisory Committee Approval Form](https://www.grad.washington.edu/wp-content/uploads/thesis-approval-form.pdf)!
+
+### Applying to Graduate
+
+- fill out a course list and get it signed by your advisor
+- Contact the CEE front office (they are often not that helpful, but you have to let them know you're graduating this quarter)
+-   Send an email to CEE grad advisors with your:
+-     Defense date
+-     Defense room
+-     committee members
+-     signed course list as proof that you're ready to graduate
+- Apply to graduate on [mygrad](https://webapps.grad.uw.edu/mgp-student/)
+- Make your thesis title different from the paper you will publish, and delay the thesis publication by a year
 
 ### Submitting your "Electronic Thesis/Dissertation"
 - [Thesis formatting guidelines](https://www.grad.washington.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)
