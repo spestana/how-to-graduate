@@ -21,7 +21,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 * **Send a clean draft of your thesis to your committee members _at least 2 weeks prior to your defense_.** They will discuss comments with you during the second half of the defense.
 
 * **Get your _[Master's Supervisory Committee Approval Form](https://www.grad.washington.edu/wp-content/uploads/thesis-approval-form.pdf)_ and print it out. Bring it with you to your thesis defense.** Your committee will need to sign it once you've passed your defense!
-  * Log in to [MyGrad](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/)
+  * Log in to [MyGrad](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) and go to *Request Degree* > *Master*
   * Select "MASTER OF SCIENCE IN CIVIL ENGINEERING - Civil Engineering, Major/Pathway: CIV E 0"
 
 ### Submitting your "Electronic Thesis/Dissertation"
