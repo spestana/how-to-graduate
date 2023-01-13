@@ -93,7 +93,10 @@ Decide (with your advisor) who will be your second committee member (your commit
 ## How to: Final Exam
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
 
-- TBD
+- Schedule your final exam with your committee well in advance.
+- Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should submit this to the Grad School.
+- At least three weeks prior to your exam date, submit the [Final Exam Request](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) online.
+- 
 
 
 ---
