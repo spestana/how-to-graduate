@@ -110,6 +110,7 @@ This question comes up a lot, here are some suggestions and resources for reserv
 - **UW Libraries meeting spaces**: The smaller study rooms with whiteboards are perfect for a qualifying exam with your committee, the larger meeting rooms are better for presentations. [See information and make reservations here](https://www.lib.washington.edu/services/spaces).
 - **Research Commons**: In the Allen Library South, the Research Commons has a [varity of spaces to reserve](https://www.lib.washington.edu/commons/Workspaces).
 - This is a general [room request form](https://eventservices.uw.edu/room-request/) from UW event services (though I haven't heard of anyone using this for reserving a space for their exams).
+- [Spaces at the HUB can be reserved](https://hub.washington.edu/reserve/book-a-space/how-to-reserve/), though it looks like this will have to be done by someone in the CEE front office for you.
 
 ---
 
