@@ -97,7 +97,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 - Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should then submit this to the Grad School.
 - At the beginning of the quarter in which you are having your exam (or no later than three weeks prior to your exam date), submit the [Final Exam Request](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) online.
   - Make sure that your "Advisors & Committees" section in MyGrad correctly lists your committee members and their roles (including the Graduate School Representative, GSR).
-- 
+- Jim Fox from UW has created an overleaf project which can be used to put together all chapters of the thesis together, following the UW Grad School requirements, with little formatting. The project can be accessed [here](https://www.overleaf.com/latex/templates/university-of-washington-thesis-template/bwwrcwrphcpr).
 
 
 ---
