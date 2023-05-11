@@ -98,7 +98,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 - At the beginning of the quarter in which you are having your exam (or no later than three weeks prior to your exam date), submit the [Final Exam Request](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) online.
   - Do a "Degree Audit Report" through [MyPlan](https://myplan.uw.edu/audit/#/degree) before you submit the Final Exam Request. Make sure all your requirements have been satisfied (except for current credits you're taking, such as all the Dissertation CEE 800 credits, they'll be listed as in progress). If there's something incorrect in the report, contact the CEE grad advisors to get it resolved ASAP.
   - Make sure that your "Advisors & Committees" section in MyGrad correctly lists your committee members and their roles (including the Graduate School Representative, GSR).
-  - 
+- Thesis/Dissertation formatting and templates ([pdf templates/examples](https://grad.uw.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)), ([Microsoft Word templates](https://people.ece.uw.edu/mamishev/word/) from Professor Mamishev, UW ECE)
 - Email your committee a reminder of your Final Exam date and time a few weeks ahead, and let them know when they can expect you to send them your dissertation.
 - No later than two weeks before your exam, send your committee a copy of your (draft) dissertation.
 - 
