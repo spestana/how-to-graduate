@@ -116,7 +116,7 @@ This question comes up a lot, here are some suggestions and resources for reserv
 - **Research Commons**: In the Allen Library South, the Research Commons has a [varity of spaces to reserve](https://www.lib.washington.edu/commons/Workspaces).
 - This is a general [room request form](https://eventservices.uw.edu/room-request/) from UW event services (though I haven't heard of anyone using this for reserving a space for their exams).
 - [Spaces at the HUB can be reserved](https://hub.washington.edu/reserve/book-a-space/how-to-reserve/), though it looks like this will have to be done by someone in the CEE front office for you.
-
+- **Molecular Engineering & Sciences Building (MoIES 115)** has a 49 seat capicity conference room which can be [reserved online](https://www.collaborationcore.uw.edu/building/meeting-rooms/meeting-room-scheduling-request/). The room availibility is also [publicly available](https://outlook.office365.com/calendar/published/R_RM.MolES.0001@uw.edu/Calendar/calendar.html). Note that the room is at the corner of the building, so signs with arrows indicating the path to the room from the front entrance are helpful. Should be beautiful on a sunny day with large windows :) 
 ---
 
 How to get paid:
