@@ -2,7 +2,7 @@
 
 Grad school has too many [unwritten rules](https://www.insidehighered.com/advice/2021/10/18/how-navigate-unwritten-rules-graduate-school-opinion), has too much mysterious institutional knowledge, and has too many steps that are gatekeeping.
 
-So as I'm working through grad school, I'm trying to keep track of all these steps to shed light on the confusing processes. 
+So as I'm working through grad school, I'm trying to keep track of all these steps to shed light on the confusing processes. Please note that my experiences, and this information, may only really be applicable to other grad students in CEE Hydrology. Other sections of the CEE department may do things quite differently. This no doubt adds to the confusion that grad students are confronted with, since some of these processes are conducted seemingly on an ad-hoc basis subject to your faculty advisors' idea of how exams should be structured, and not centrally coordinated by the department.
 
 Shout out to my fellow grad students who shared info with me or helped me with this. Please [fork this repo](https://github.com/spestana/how-to-graduate/) or [contact me](mailto:spestana@uw.edu) to add/edit more information or to help correct typos.
 
@@ -36,7 +36,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Qualifying Exam
-(PhD Milestones: [Qualifying Exam](https://www.ce.washington.edu/current/phd/milestones/qualifying)
+(PhD Milestones: [Qualifying Exam](https://www.ce.washington.edu/current/phd/milestones/qualifying))
 
 - **Reach out to potential qualifying exam committee members ~3 months in advance** with a tentative date, or at least a range of dates so that you can start coordinating exactly when everyone will be available. You will need 2 additional committee members in addition to your advisor.
   -  **Pick a date for the “oral exam” where you will meet with your exam committee.**
@@ -55,10 +55,10 @@ Decide (with your advisor) who will be your second committee member (your commit
     - Copies of the written questions and your answers for the committee members in case they didn’t bring their own copy. (they really should bring their own copy, but just in case)
     - Copies of your class list/CV/research statement (the same thing you’d emailed them when scheduling the exam) in case they want to see those things. (again, they should have those if they’re prepared, but just in case)
     - Markers/chalk/eraser for whiteboard/chalkboard (make sure ahead of time that the room has these materials. You may need to ask the CEE front office or someone at the Library for access to these if they’re not already available in the room). Also bring pencil/paper too.
-  - During the exam, introduce yourself and give a brief overview of your research interests that you’d provided the committee with. You’ll likely then be asked to explain your written exam problems, asked followup questions about those problems, and then more general questions about your planned research topic. At the end of the exam the committee will discuss in private and pretend to deliberate and decide if you’ve passed (**don’t worry, you did pass, they wouldn’t hold an exam if they didn’t think you would pass**). They’ll invite you  back in and give some feedback, suggestions about areas to study/read about more.
-  - **Congrats, you did it!**
+  - During the exam, introduce yourself and give a brief overview of your research interests that you’d provided the committee with. You’ll likely then be asked to explain your written exam problems, asked followup questions about those problems, and then more general questions about your planned research topic. 
+  - At the end of the exam the committee will ask you to leave the room so that they can discuss in private and decide if you’ve passed. They’ll invite you  back in and give some feedback, suggestions about areas to study/read about more.
 - **After passing the exam**, your advisor will then submit a form to the CEE advising office notifying them that you’ve passed. 
-
+- **If they decide that you did not pass the exam**, I would have serious concerns about why your advisor and committee had you go through the qualifying exam process. By the time you are ready to take the qualifying exam, I would hope that your advisor and committee would already have a very good idea of your skills and preparedness for continuing to work on your PhD (and therefore have already decided that you can no doubt pass this exam). If your advisor and committee genuinely do not think you are prepared to pursue a PhD, I would hope that they do not make you go through the qualifying exam until they feel that you're prepared. If they have you take the exam and decide that you did not pass, this reflects poorly on the mentorship you've received, not on you.
 
 
 ## How to: General Exam
@@ -93,11 +93,17 @@ Decide (with your advisor) who will be your second committee member (your commit
 ## How to: Final Exam
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
 
-- Schedule your final exam with your committee well in advance. And reserve a room for your final exam presentation (see notes below).
+- Schedule your final exam with your committee well in advance. And reserve a room for your final exam presentation (see notes below on reserving rooms).
 - Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should then submit this to the Grad School.
 - At the beginning of the quarter in which you are having your exam (or no later than three weeks prior to your exam date), submit the [Final Exam Request](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) online.
+  - Do a "Degree Audit Report" through [MyPlan](https://myplan.uw.edu/audit/#/degree) before you submit the Final Exam Request. Make sure all your requirements have been satisfied (except for current credits you're taking, such as all the Dissertation CEE 800 credits, they'll be listed as in progress). If there's something incorrect in the report, contact the CEE grad advisors to get it resolved ASAP.
   - Make sure that your "Advisors & Committees" section in MyGrad correctly lists your committee members and their roles (including the Graduate School Representative, GSR).
-- Jim Fox from UW has created an overleaf project which can be used to put together all chapters of the thesis together, following the UW Grad School requirements, with little formatting. The project can be accessed [here](https://www.overleaf.com/latex/templates/university-of-washington-thesis-template/bwwrcwrphcpr).
+- Thesis/Dissertation formatting and templates ([pdf templates/examples](https://grad.uw.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)), ([Microsoft Word templates](https://people.ece.uw.edu/mamishev/word/) from Professor Mamishev, UW ECE)
+  - Jim Fox from UW has created an overleaf project which can be used to put together all chapters of the thesis together, following the UW Grad School requirements, with little formatting. The project can be accessed [here](https://www.overleaf.com/latex/templates/university-of-washington-thesis-template/bwwrcwrphcpr).
+- Email your committee a reminder of your Final Exam date and time a few weeks ahead, and let them know when they can expect you to send them your dissertation.
+- No later than two weeks before your exam, send your committee a copy of your (draft) dissertation.
+- 
+
 
 
 ---
@@ -112,7 +118,7 @@ This question comes up a lot, here are some suggestions and resources for reserv
 - **Research Commons**: In the Allen Library South, the Research Commons has a [varity of spaces to reserve](https://www.lib.washington.edu/commons/Workspaces).
 - This is a general [room request form](https://eventservices.uw.edu/room-request/) from UW event services (though I haven't heard of anyone using this for reserving a space for their exams).
 - [Spaces at the HUB can be reserved](https://hub.washington.edu/reserve/book-a-space/how-to-reserve/), though it looks like this will have to be done by someone in the CEE front office for you.
-
+- **Molecular Engineering & Sciences Building (MoIES 115)** has a 49 seat capicity conference room which can be [reserved online](https://www.collaborationcore.uw.edu/building/meeting-rooms/meeting-room-scheduling-request/). The room availibility is also [publicly available](https://outlook.office365.com/calendar/published/R_RM.MolES.0001@uw.edu/Calendar/calendar.html). Note that the room is at the corner of the building, so signs with arrows indicating the path to the room from the front entrance are helpful. Should be beautiful on a sunny day with large windows :) 
 ---
 
 How to get paid:
