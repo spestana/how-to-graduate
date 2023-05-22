@@ -117,7 +117,8 @@ This question comes up a lot, here are some suggestions and resources for reserv
 - This is a general [room request form](https://eventservices.uw.edu/room-request/) from UW event services (though I haven't heard of anyone using this for reserving a space for their exams).
 - [Spaces at the HUB can be reserved](https://hub.washington.edu/reserve/book-a-space/how-to-reserve/), though it looks like this will have to be done by someone in the CEE front office for you.
 - **Molecular Engineering & Sciences Building (MoIES 115)** has a 49 seat capicity conference room which can be [reserved online](https://www.collaborationcore.uw.edu/building/meeting-rooms/meeting-room-scheduling-request/). The room availibility is also [publicly available](https://outlook.office365.com/calendar/published/R_RM.MolES.0001@uw.edu/Calendar/calendar.html). Note that the room is at the corner of the building, so signs with arrows indicating the path to the room from the front entrance are helpful. Should be beautiful on a sunny day with large windows :) 
-Some helpful tips when giving a hybrid-Zoom presentation.
+
+And, some helpful tips when giving a hybrid-Zoom presentation.
 - **Zoom Link**: Have your adviser create the Zoom Link so that there is an unlimited time limit to the meeting and a chat. 
 - **Zoom Hosts**: Have a trusted friend (or two) registered as Zoom hosts. You (the presenter) **do not** want to be signed in as a Zoom host. This prevents a window popping up during your presentation, telling you to admit people into the meeting. Leave that work to your trusted friend(s) while you present. 
 - Don't forget to have your trusted friend(s) assign you as the Zoom host *once you are done* presenting. This way, you have all access to the Zoom link if a committee member is online after the presentation is over. 
