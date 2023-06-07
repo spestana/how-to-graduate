@@ -101,8 +101,13 @@ Decide (with your advisor) who will be your second committee member (your commit
 - Thesis/Dissertation formatting and templates ([pdf templates/examples](https://grad.uw.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)), ([Microsoft Word templates](https://people.ece.uw.edu/mamishev/word/) from Professor Mamishev, UW ECE)
   - Jim Fox from UW has created an overleaf project which can be used to put together all chapters of the thesis together, following the UW Grad School requirements, with little formatting. The project can be accessed [here](https://www.overleaf.com/latex/templates/university-of-washington-thesis-template/bwwrcwrphcpr).
 - Email your committee a reminder of your Final Exam date and time a few weeks ahead, and let them know when they can expect you to send them your dissertation.
+- About a week before your exam, the CEE Graduate Advisors should send you a pdf of your "Committee Signature Form" (also known as the "Degree Warrant"). Print this out to bring with you to your exam!
 - No later than two weeks before your exam, send your committee a copy of your (draft) dissertation.
-- 
+- The first half of the final exam will be your presentation of your work to the general  (~45 minutes) followed by their questions (~10 minutes), and the second half will be the closed section with you and your commitee and GSR (Graduate School Representatives) where they'll ask you questions about your work. Afterwards they'll ask you to leave the room to deliberate among themselves, then bring you back in when they've decided you've passed (hopefully)!
+- Make sure they sign the Committee Signature Form (Degree Warrant)! And turn that back in to the CEE Graduate Advisors afterwards.
+
+**Submitting your Dissertation**
+- tbd...
 
 
 
