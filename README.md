@@ -6,6 +6,9 @@ So as I'm working through grad school, I'm trying to keep track of all these ste
 
 Shout out to my fellow grad students who shared info with me or helped me with this. Please [fork this repo](https://github.com/spestana/how-to-graduate/) or [contact me](mailto:spestana@uw.edu) to add/edit more information or to help correct typos.
 
+Also see:
+* **[Student Resources](https://spestana.github.io/how-to-graduate/student-resources)**
+
 ---
 
 ## How to: Master's Thesis Defense
