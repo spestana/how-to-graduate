@@ -39,7 +39,7 @@ Free services for graduate students:
 * [Counceling Center](https://www.washington.edu/counseling/)
 * [Intramural teams](https://www.washington.edu/ima/intramurals/)
 
-## Proessional Development
+## Professional Development
 * [Center for Teaching and Learning](https://teaching.washington.edu/)
 * [Graduate Career Center](https://careers.uw.edu/graduate-students/)
 
