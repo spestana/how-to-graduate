@@ -13,11 +13,12 @@ Free services for graduate students:
 * [The Center for Social Science Computation and Research (CSSCR)](https://depts.washington.edu/csscr/)
 * [Data Science Office Hours at the eScience Institute](https://escience.washington.edu/using-data-science/office-hours/)
 
-## Family, Housing, and Food
+## Family & Housing & Health
 * [Childcare](https://hr.uw.edu/worklife/child-care-and-caregiving/)
 * [Graduate student housing](https://hfs.uw.edu/Live/Graduates)
 * [GO-MAP’s Find a Roommate Facebook page](https://www.facebook.com/groups/433915590526762/)
 * [University District Food Bank](https://www.udistrictfoodbank.org/)
+* [Informaiton about protecting yourselves and others from COVID-19](https://www.washington.edu/coronavirus/)
 
 ## Identity & Culture
 * [Race & Equity Initiative](https://www.washington.edu/raceequity/)
