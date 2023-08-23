@@ -98,6 +98,10 @@ Decide (with your advisor) who will be your second committee member (your commit
 
 - Schedule your final exam with your committee well in advance. And reserve a room for your final exam presentation (see notes below on reserving rooms).
 - Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should then submit this to the Grad School.
+- Usually, you must be registered for 10 credits to maintain full-time status, this does not apply for your last quarter or for other circumstances (health issues, primary caregiver, DRS accommodation, financial hardship, or part-time program). 
+  - Talk with your advisor to determine if [petitioning for reduced enrollment/tuition](https://grad.uw.edu/graduate-student-funding/assistantships/petition-for-reduced-enrollment/) in your last quarter fits your plan. 
+  - The less tuition that needs to be paid to UW allows grant funding to be stretchd a bit further. 
+  - For international students, this petition will notify your home country and may affect the start of your [grace period](https://iss.washington.edu/immigration/) after graduation. Confer with [ISS](https://iss.washington.edu/) and your advisor before moving forward on this. 
 - At the beginning of the quarter in which you are having your exam (or no later than three weeks prior to your exam date), submit the [Final Exam Request](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) online.
   - Do a "Degree Audit Report" through [MyPlan](https://myplan.uw.edu/audit/#/degree) before you submit the Final Exam Request. Make sure all your requirements have been satisfied (except for current credits you're taking, such as all the Dissertation CEE 800 credits, they'll be listed as in progress). If there's something incorrect in the report, contact the CEE grad advisors to get it resolved ASAP.
   - Make sure that your "Advisors & Committees" section in MyGrad correctly lists your committee members and their roles (including the Graduate School Representative, GSR).
