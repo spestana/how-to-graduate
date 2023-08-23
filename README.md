@@ -94,7 +94,7 @@ Decide (with your advisor) who will be your second committee member (your commit
   - [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
 
 ## How to: Final Exam
-(PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final))
+(PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final), [Checklist for International Students](https://iss.washington.edu/resources/final-checklist/))
 
 - Schedule your final exam with your committee well in advance. And reserve a room for your final exam presentation (see notes below on reserving rooms).
 - Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should then submit this to the Grad School.
