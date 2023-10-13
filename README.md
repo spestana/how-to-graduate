@@ -114,7 +114,15 @@ Decide (with your advisor) who will be your second committee member (your commit
 - Make sure they sign the Committee Signature Form (Degree Warrant)! And turn that back in to the CEE Graduate Advisors afterwards.
 
 **Submitting your Dissertation**
-- tbd...
+- See guidelines [here](https://grad.uw.edu/current-students/enrollment-through-graduation/thesis-dissertation/)
+- To submit your dissertation/thesis, you will need to log in to the [ETD site here](https://www.etdadmin.com/main/home?siteId=412 ) **NOTE** the login here is different than your UW NetID, username is your UW email address (you may need to make an account if you have not previously, if you submitted a masters thesis here in the past you should still have an account)
+- Items you'll need when you submit on the ETD website:
+  - A single file PDF of your dissertation
+  - Your abstract text to copy/pase into a separate field
+  - Any supplementary files you might want to include
+  - Names and info for all your committee members
+  - Pick 3 subject areas to index your dissertation under from [this list](https://about.proquest.com/globalassets/proquest/files/pdf-files/subject-categories-academic.pdf) (whichever ones sound best to you, I think this is just to help with their indexing/searching features once it's been posted online)
+- After you submit, you may get an email from ProQuest asking for any formatting changes, for which you'd just need to fix the formatting issue and re-upload the PDF file to re-submit.
 
 
 
