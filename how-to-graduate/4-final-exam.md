@@ -2,7 +2,7 @@
 (PhD Milestones: [Final Exam](https://www.ce.washington.edu/current/phd/milestones/final), [Checklist for International Students](https://iss.washington.edu/resources/final-checklist/))
 
 ## The Final Exam
-- Schedule your final exam with your committee well in advance. And reserve a room for your final exam presentation (see notes below on reserving rooms).
+- Schedule your final exam with your committee well in advance. And [reserve a room](/how-to-graduate/resources/2-reserve-room.md) for your final exam presentation (see notes below on reserving rooms).
 - Make sure that the CEE Graduate Advising Office has the names of the members of your "reading committee" - the CEE advisors should then submit this to the Grad School.
 - Usually, you must be registered for 10 credits to maintain full-time status, this does not apply for your last quarter or for other circumstances (health issues, primary caregiver, DRS accommodation, financial hardship, or part-time program). 
   - Talk with your advisor to determine if [petitioning for reduced enrollment/tuition](https://grad.uw.edu/graduate-student-funding/assistantships/petition-for-reduced-enrollment/) in your last quarter fits your plan. 
