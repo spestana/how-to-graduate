@@ -6,7 +6,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 
 ## Planning the thesis defense
 
-* **Schedule your thesis defense date _at least 2 months in advance_.** Coordinate with your committee members on a date/time that works for them. [Reserve a room](/how-to-graduate/resources/2-reserve-room) on campus to have your thesis defense presentation in. (See notes at the end of the page about reserving a meeting room for exams/presentations)
+* **Schedule your thesis defense date _at least 2 months in advance_.** Coordinate with your committee members on a date/time that works for them. [Reserve a room](/how-to-graduate/resources/2-reserve-room) on campus to have your thesis defense presentation in.
 
 * **Send a clean draft of your thesis to your committee members _at least 2 weeks prior to your defense_.** They will discuss comments with you during the second half of the defense.
 
