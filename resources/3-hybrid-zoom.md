@@ -1,4 +1,6 @@
-#  Tips for giving a hybrid-Zoom presentation
+# In Person / Online Presentations
+
+##  Tips for giving a hybrid in person / online Zoom presentation
 
 - **Zoom Link**: Have your adviser create the Zoom Link so that there is an unlimited time limit to the meeting and a chat. 
 - **Zoom Hosts**: Have a trusted friend (or two) registered as Zoom hosts. You (the presenter) **do not** want to be signed in as a Zoom host. This prevents a window popping up during your presentation, telling you to admit people into the meeting. Leave that work to your trusted friend(s) while you present. 
