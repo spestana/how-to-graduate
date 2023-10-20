@@ -1,4 +1,6 @@
-# Reserving a meeting room for exams/presentations
+# Reserving a room
+
+## Reserving a meeting room for exams/presentations
 
 This question comes up a lot, here are some suggestions and resources for reserving a meeting room for your exams/presentations.
 - **More Hall**: Contact or visit the [CEE front office](https://www.ce.washington.edu/about/contact) to ask about reserving a room in More Hall.
