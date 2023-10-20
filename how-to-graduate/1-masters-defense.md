@@ -18,7 +18,7 @@ Decide (with your advisor) who will be your second committee member (your commit
 
 ## Submitting your "Electronic Thesis/Dissertation"
 - [Thesis formatting guidelines](https://www.grad.washington.edu/for-students-and-post-docs/thesisdissertation/etd-formatting-guidelines/)
-  - Alternatively, [use my formatted thesis word document as a template](docs/my_thesis.docx)
+  - Alternatively, [use my formatted thesis word document as a template](/docs/my_thesis.docx)
 - [This "ProQuest ETD Administrator" website](https://www.etdadmin.com/main/home?siteId=412) is where you upload your thesis document (it requires that you make an account, different than your UWNetID ?)
 - What copywrite option do I choose?
   - Pick one that you don't have to pay for. I chose the "Creative Commons License, Attribution (CC BY)"
