@@ -1,6 +1,34 @@
 
 # Student Resources
 
+## More "how to graduate" resources
+Other websites/documents for how to graduate:
+ - [PhD Program Milestones](https://www.ce.washington.edu/current/phd/milestones)
+ - [“Preparing to Graduate”](https://grad.uw.edu/for-students-and-post-docs/degree-requirements/preparing-to-graduate/)
+ - ["Getting Ready to Graduate"](files/GettingReadyToGraduate.docx) (Ph.D., **last updated 2017**)
+
+---
+
+## Engineering Student Resources
+
+**[The Office of Inclusive Excellence](https://www.engr.washington.edu/about/diversity)** leads strategic change to transform the culture of the College of Engineering. Our work includes supporting student development, providing leadership training and growing our population of students with diverse backgrounds. Learn more about the College's DEI work. 
+
+**[Incident reporting tool](https://www.engr.washington.edu/bias)**: All students, staff and faculty can submit encounters of bias, discrimination or harassment directly to the College of Engineering. 
+
+**[WE Rise](https://www.engr.washington.edu/current/studentprogs/women-engineers-rise)**: Open to every student at the College, WE Rise promotes the inclusion of all genders in engineering through mentorships and events.
+
+**[UW Mental Health](https://wellbeing.uw.edu/topic/mental-health/)**: Support your overall health and wellness. UW offers counseling and a crisis hotline for students.
+
+**[Engineering student resources](https://www.engr.washington.edu/current/student-support-resources)**: As a UW Engineering student, you have access to many resources to support you academically, professionally and emotionally. 
+
+**[Student clubs and teams](https://www.engr.washington.edu/current/studentprogs/orgs)**: Get involved and build community. Join a student club or team today.
+
+**[Telus Health](https://myssp.app/ca/home )**: Telus Health connects students with free, confidential emotional health and wellbeing support 24/7 via an app, telephone and web. UW students can still access support when located outside of Washington. 
+
+(resource list from an email sent out to the college of engineering)
+
+---
+
 Resources based on this [Student Resources page](https://web.archive.org/web/20210730143131/https://grad.uw.edu/equity-inclusion-and-diversity/go-map/student-resources/) that used to be on the GO-MAP website.
 
 ## Academic Success
@@ -50,3 +78,4 @@ Free services for graduate students:
 * [King County Metro](https://kingcounty.gov/en/dept/metro)
 * [Trip Planner - King County Metro](https://app.tripplanner.kingcounty.gov/) helps you plan your trips throughout the Puget Sound region.  You can use the mobile app or desktop version.
 * The [OneBusAway](https://onebusaway.org/) app lets you know when your bus is coming, if it’s running late, and the route it takes to get to and from your location.
+
