@@ -9,6 +9,11 @@ Decide (with your advisor) who will be your second committee member (your commit
 * **Schedule your thesis defense date _at least 2 months in advance_.** Coordinate with your committee members on a date/time that works for them. [Reserve a room](/how-to-graduate/resources/2-reserve-room) on campus to have your thesis defense presentation in.
 
 * **Send a clean draft of your thesis to your committee members _at least 2 weeks prior to your defense_.** They will discuss comments with you during the second half of the defense.
+  * Reach out to your committee to confirm with them what format they prefer: ideally you send them something like a google doc or sharepoint doc so that they can see each other's comments (helps avoid conflicting edits)
+ 
+* **Fill out a course list and get it signed by your advisor.**
+
+* **Contact the CEE front office to let them know you're graduating this quarter.** Send an email to CEE grad advisors with your: defense date, the room you will be using, your committee members, and the course list signed by your advisor as proof that you're ready to graduate.
 
 * **Submit a degree request through MyGrad**
   * Log in to [MyGrad](https://grad.uw.edu/for-students-and-post-docs/mygrad-program/) and go to *Request Degree* > *Master*
@@ -22,5 +27,6 @@ Decide (with your advisor) who will be your second committee member (your commit
 - [This "ProQuest ETD Administrator" website](https://www.etdadmin.com/main/home?siteId=412) is where you upload your thesis document (it requires that you make an account, different than your UWNetID ?)
 - What copywrite option do I choose?
   - Pick one that you don't have to pay for. I chose the "Creative Commons License, Attribution (CC BY)"
+- If you plan on publishing your work in a peer-reviewed journal later, make sure that your thesis title is different from the title of the peer-reviewed paper you will publish. You can also choose to delay the posting of your thesis online by a year if you would rather a peer-reviewed publication come out first. These things can help make sure that others will more easily find your peer-reviewed work (such as through Google Scholar) rather than your thesis (most likely you will prefer that they cite your peer-reviewed paper instead of your thesis).
 
 [Make sure that you get your **pay raise** the following quarter.](https://grad.uw.edu/graduate-student-funding/funding-information-for-departments/administering-assistantships/ta-ra-salaries/)
